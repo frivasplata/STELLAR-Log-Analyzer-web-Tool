@@ -9,3 +9,6 @@ docker pull frivasplata/log-viewer:latest
 docker stop log-viewer
 docker rm log-viewer
 docker run -d -p 3005:3005 --restart always --name log-viewer frivasplata/log-viewer:latest
+
+Build-5
+Analyze both Aps button added
