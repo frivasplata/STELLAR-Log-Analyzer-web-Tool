@@ -14,6 +14,9 @@ docker rm log-viewer
 
 docker run -d -p 3005:3005 --restart always --name log-viewer frivasplata/log-viewer:latest
 
+
+Changes or Improvements
+
 V0.3.0-build-3
 Differentiating Radius Authentication than Radius Accounting
 
