@@ -10,5 +10,11 @@ docker stop log-viewer
 docker rm log-viewer
 docker run -d -p 3005:3005 --restart always --name log-viewer frivasplata/log-viewer:latest
 
-Build-5
+V0.3.0-build-3
+Differentiating Radius Authentication than Radius Accounting
+
+V0.3.0-build-4
+Differentiating 4-Way-Handshake messages 1/1 to 1/4
+
+V0.3.0-build-5
 Analyze both Aps button added
