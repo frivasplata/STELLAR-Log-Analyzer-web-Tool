@@ -5,9 +5,13 @@ Install:
 docker run -d -p 3005:3005 --restart always --name log-viewer frivasplata/log-viewer:latest
 
 Update:
+
 docker pull frivasplata/log-viewer:latest
+
 docker stop log-viewer
+
 docker rm log-viewer
+
 docker run -d -p 3005:3005 --restart always --name log-viewer frivasplata/log-viewer:latest
 
 V0.3.0-build-3
