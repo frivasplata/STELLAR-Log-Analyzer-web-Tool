@@ -29,5 +29,8 @@ Analyze both Aps button added
 V0.3.0-build-6
 Time elapsed between Flows is calculated and shown
 
-V0.3.0-build-6
+V0.3.0-build-7
 Channel utilization as a Gauge
+
+V0.3.0-build-8
+CCI logic improved and using a Gauge
