@@ -25,3 +25,6 @@ Differentiating 4-Way-Handshake messages 1/1 to 1/4
 
 V0.3.0-build-5
 Analyze both Aps button added
+
+V0.3.0-build-6
+Time elapsed between Flows is calculated and shown
