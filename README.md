@@ -34,3 +34,8 @@ Channel utilization as a Gauge
 
 V0.3.0-build-8
 CCI logic improved and using a Gauge
+
+V0.3.0-build-9
+Network Events analysis improvements
+
+Refetch logs button fix
