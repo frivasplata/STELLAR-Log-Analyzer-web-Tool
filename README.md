@@ -39,3 +39,8 @@ V0.3.0-build-9
 Network Events analysis improvements
 
 Refetch logs button fix
+
+V0.3.0-build-10
+Tx Power obtained in real time from the 2.4, 5 or 6Ghz radio adapter when using the CCI function
+
+From now on you can change the tx power on the radio adapter for troubleshooting purposes
