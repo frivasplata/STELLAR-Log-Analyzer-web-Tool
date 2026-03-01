@@ -44,3 +44,11 @@ V0.3.0-build-10
 Tx Power obtained in real time from the 2.4, 5 or 6Ghz radio adapter when using the CCI function
 
 From now on you can change the tx power on the radio adapter for troubleshooting purposes
+
+V0.3.0-build-11
+Split screen fullscreen
+
+V0.3.0-build-12
+Improved analysis logic
+
+Network anbalysis page can be closed pressing the escape key
