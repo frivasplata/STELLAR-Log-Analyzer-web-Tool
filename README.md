@@ -55,3 +55,6 @@ Network anbalysis page can be closed pressing the escape key
 
 V0.3.0-build-13
 Improved Network Events Analysis
+
+V0.3.0-build-13
+Improved Clients Connected search function
