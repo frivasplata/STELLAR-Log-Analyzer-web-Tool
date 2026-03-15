@@ -62,3 +62,7 @@ Improved Clients Connected search function
 V0.3.0-build-15
 Improved Flow reconstruction analysis, now you can see the Virtual Adapter used allowing you to identify if the roaming is happening among different bands likes roaming form 5Ghz to 6Ghz or any other scenario.
 
+V0.3.0-build-16
+Improved Flow reconstruction analysis, now you can see the roaming events and the destination AP ip address where the client device is roaming to.
+
+
