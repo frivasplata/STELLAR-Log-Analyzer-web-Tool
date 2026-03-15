@@ -56,5 +56,9 @@ Network anbalysis page can be closed pressing the escape key
 V0.3.0-build-13
 Improved Network Events Analysis
 
-V0.3.0-build-13
+V0.3.0-build-14
 Improved Clients Connected search function
+
+V0.3.0-build-15
+Improved Flow reconstruction analysis, now you can see the Virtual Adapter used allowing you to identify if the roaming is happening among different bands likes roaming form 5Ghz to 6Ghz or any other scenario.
+
