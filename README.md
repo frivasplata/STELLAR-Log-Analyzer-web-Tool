@@ -65,4 +65,5 @@ Improved Flow reconstruction analysis, now you can see the Virtual Adapter used 
 V0.3.0-build-16
 Improved Flow reconstruction analysis, now you can see the roaming events and the destination AP ip address where the client device is roaming to.
 
-
+V0.3.0-build-17
+Neighbor AP's: Now you can see the list of the Neighbor APs. Being capable to check if a given AP mac address or ip address is part of the neighborship is critical when troubleshooting roaming problems. 
