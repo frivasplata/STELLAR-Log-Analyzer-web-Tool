@@ -52,7 +52,7 @@ Split screen fullscreen
 V0.3.0-build-12
 Improved analysis logic
 
-Network anbalysis page can be closed pressing the escape key
+Network analysis page can be closed pressing the escape key
 
 V0.3.0-build-13
 Improved Network Events Analysis
