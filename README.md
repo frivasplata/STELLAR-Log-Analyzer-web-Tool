@@ -68,3 +68,7 @@ Improved Flow reconstruction analysis, now you can see the roaming events and th
 
 V0.3.0-build-17
 Neighbor AP's: Now you can see the list of the Neighbor APs. Being capable to check if a given AP mac address or ip address is part of the neighborship is critical when troubleshooting roaming problems. 
+
+V0.3.0-build-18
+Connection reconstruction and analysis improvement: When a result_code different than 0 is detected after an ipv4 address has been negotiated the tool will calculate the time lapsed beween these 2 events.
+
