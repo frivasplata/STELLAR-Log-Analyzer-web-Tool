@@ -82,3 +82,10 @@ Graphical Summary per MAC address added to the Network Events Analysis page
 
 Dte and Time filter added to the Network Events Analysis page
 
+V0.4.0-build-2
+
+You can now analyze up to 4 APs simultanously
+
+Graphical Summary per MAC address visual improvement
+
+
