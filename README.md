@@ -76,3 +76,9 @@ When a result_code different than 0 is detected after an ipv4 address has been n
 
 When an event with result code different than 0 (whihc means a problem occurred) happens after the connection flow reached an ipv4 address then that is not considered a flow issue but an important event to be considered.
 
+V0.4.0-build-1
+
+Graphical Summary per MAC address added to the Network Events Analysis page
+
+Dte and Time filter added to the Network Events Analysis page
+
