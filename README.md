@@ -88,4 +88,7 @@ You can now analyze up to 4 APs simultaneously
 
 Graphical Summary per MAC address visual improvement
 
+V0.4.0-build-3
+
+Improvements on the Roaming Neighbors AP details and accounting. Been capable to see in real time the neighbor APs details is important when troubleshooting roaming issues.
 
