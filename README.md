@@ -92,3 +92,7 @@ V0.4.0-build-3
 
 Improvements on the Roaming Neighbors AP details and accounting. Being capable to see in real time the neighbor APs details is important when troubleshooting roaming issues.
 
+V0.4.0-build-4
+
+Top 5 mac addresses with the highest number of failed connection flows and Top 5 mac addresses with the highest number of succesful connections flows.
+
