@@ -96,3 +96,10 @@ V0.4.0-build-4
 
 Top 5 mac addresses with the highest number of failed connection flows and Top 5 mac addresses with the highest number of succesful connections flows.
 
+V0.4.0-build-5
+
+Association Requests and Responses are clearly differentiated in the connection flow details
+
+Top 5 MAC addresses are now clickable and when clicked are automatically selected to be analyzed.
+
+
