@@ -106,4 +106,8 @@ V0.4.0-build-6
 
 Connection flows details are now folded for an easy general view. You can unfold the flows clicking on each flow.
 
+V0.4.0-build-7
+
+Improved MAC and 802.1x failure detection
+
 
