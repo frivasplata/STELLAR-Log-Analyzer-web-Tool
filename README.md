@@ -102,4 +102,8 @@ Association Requests and Responses are clearly differentiated in the connection 
 
 Top 5 MAC addresses are now clickable and when clicked are automatically selected to be analyzed.
 
+V0.4.0-build-6
+
+Connection flows details are now folded for an easy general view. You can unfold the flows clicking on each flow.
+
 
