@@ -110,4 +110,15 @@ V0.4.0-build-7
 
 Improved MAC and 802.1x failure detection
 
+V0.4.0-build-8
+
+Top 5 issues detected within the logs
+
+V0.4.0-build-9
+
+When clicking on the Top 5 issues you can see some of the log lines associated
+
+V0.4.0-build-10
+
+When applying a zoom in or zoom out on any AP full screen page the same font size will be enforced on every other AP page.
 
